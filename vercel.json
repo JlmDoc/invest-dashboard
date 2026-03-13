@@ -3,8 +3,5 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "regions": ["hkg1"],
-  "env": {
-    "FINNHUB_API_KEY": "@finnhub_api_key"
-  }
+  "regions": ["hkg1"]
 }
